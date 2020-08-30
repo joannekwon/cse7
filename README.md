@@ -1,1 +1,1 @@
-# cse7
+# CSE7 - Introduction to Programming (MATLAB)
